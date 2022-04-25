@@ -10,9 +10,14 @@ namespace Tour
     {
         static void Main(string[] args)
         {
-            // делдаю второе задание 
+
+            
             int y;
-            // сделал 2 задание
+         
+            
+            int x;
+            
+
         }
     }
 }
